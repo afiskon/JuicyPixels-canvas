@@ -4,7 +4,7 @@
 name:                JuicyPixels-canvas
 version:             0.1.0.0
 synopsis:            Functions for drawing lines, squares and so on pixel by pixel
--- description:         
+description:         Functions for drawing lines, squares and so on pixel by pixel
 homepage:            http://eax.me/
 license:             BSD3
 license-file:        LICENSE
